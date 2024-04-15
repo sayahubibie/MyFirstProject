@@ -2,9 +2,10 @@
 <body bgcolor='pink'>
 <br><br>
     <h1><a href="login.html" name="body" title="login">login form</a></h1>
-
+<hr>
+<br><br>
 
     <h1><a href="registration.html" name="body" title="registration">registration form</a></h1>
 <hr>
 </body>
-</html>
+</html>15-04-2024
